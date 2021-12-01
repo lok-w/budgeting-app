@@ -1,4 +1,7 @@
-## Budgeting App - Java: Discovering Its Power - EL ENG X436.2 Final Project
+## Budgeting App - Java: Discovering Its Power
+
+<img src="budgeting app.jpg" width="700"/>
+
 
 This project used JavaFx to build a budgeting app that provides functions to help people in managing personal accounts and tracking expenses. 
 
@@ -16,4 +19,3 @@ The program will allow user to create accounts with different names such as “B
 
 ### Reference:
 css style: github.com/dicolar/jbootx/blob/master/src/main/resources/bootstrap3.css
-
